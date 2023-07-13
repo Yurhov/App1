@@ -1,5 +1,7 @@
 <resources>
-    <string name="app_name">App1</string>
+    <string name="app_name">App!</string>
     <string name="button">тычка</string>
     <string name="Hello">Привяу!</string>
+    <string name="textview">Ух ты фотка!</string>
+    <string name="todo">TODO</string>
 </resources>
